@@ -3,10 +3,10 @@ const express = require('express');
 const server = express();
 
 var client = new Twitter({
-    consumer_key: 'E5gcjuNo0ZtyKjRv4QFKw6kSj',
-    consumer_secret: 'v87ZdBv0MLFfDwsaXy2WM62FOckOVXjcTNsv7m5TrBL5wpQNUT',
-    access_token_key: '628041108-B4h79fWWnegpc2R4wWXdl9b7FbCIhpwIhFLNu5mE',
-    access_token_secret: 'IOpfwU0irh86oRHCdS5nxAwU8RBPnz3yyURhldADZYkch'
+    consumer_key: '*********************',
+    consumer_secret: '******************************',
+    access_token_key: '*****************************************',
+    access_token_secret: '******************************************'
 });
 
 
