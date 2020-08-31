@@ -10,3 +10,4 @@ containing the 50 most popular words that appear along with the number of times 
 tweet is then produced, outputing only enough characters to not exceed the length of a tweet. This functionality mimics
 real life bots that can appear as real accounts on twitter. With some additional linguistic restrictions to the words
 being produced, a comprehensive twitter bot can be produced that many people might even mistake for a regular Twitter user.  
+NOTE: Twitter API private keys have been redacted for security purposes
